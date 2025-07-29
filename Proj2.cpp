@@ -1,5 +1,3 @@
-// Tell the user numbers are equal or not equal
-
 #include <iostream>
 using namespace std;
 
